@@ -1,0 +1,61 @@
+
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.form-horizontal .control-label {
+    text-align: right;
+}
+
+.search-form .bootstrap-select.btn-group, .search-form .bootstrap-select.btn-group[class*="span"], .search-form input.span6 {
+    float: right;
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+input.span3.xPrice {
+    margin-right: 0;
+}
+
+
+input.span3.Bathrooms {
+    margin-left: 6px;
+}
+
+.bootstrap-select.btn-group .btn .filter-option {
+    text-align: right;
+}
+
+.wrap-content div.options {
+    height:20px;
+    position: relative;
+}
+
+.options .bootstrap-select.btn-group.pull-right, .bootstrap-select.btn-group.pull-right[class*="span"], .row-fluid .bootstrap-select.btn-group.pull-right[class*="span"] {
+    float: left;
+}
+
+.thumbnail .caption p span {
+    float: left;
+}
+
+.property_options p.bottom-border span {
+    float: left;
+}
+
+ul.menu-onmap li, ul.menu-onmap li.active
+{
+    float:right;
+}
+
+ul.menu-onmap li.list-property-button {
+    float: left;
+}
+
+.pagination ul > li {
+    float:right;
+}
+
+

@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+			    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>http://localhost/property-point/homepage.htm</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/naslovnica.htm</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/152</loc>
+	<lastmod>2014-04-06T16:21:32+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/152</loc>
+	<lastmod>2014-04-06T16:21:32+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/155/test_news_category</loc>
+	<lastmod>2014-04-06T20:13:51+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/155/test_novost_kategorija</loc>
+	<lastmod>2014-04-06T20:13:51+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/159/test_news_category_2</loc>
+	<lastmod>2014-04-15T18:37:33+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/159/test_news_category_2</loc>
+	<lastmod>2014-04-15T18:37:33+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/map.htm</loc>
+	<lastmod>2013-12-29T12:06:05+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/karta.htm</loc>
+	<lastmod>2013-12-29T12:06:05+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/151</loc>
+	<lastmod>2014-04-06T16:07:03+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/151</loc>
+	<lastmod>2014-04-06T16:07:03+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/agents.htm</loc>
+	<lastmod>2014-08-01T19:02:31+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/agenti.htm</loc>
+	<lastmod>2014-08-01T19:02:31+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/featured.htm</loc>
+	<lastmod>2014-04-05T10:33:02+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/izdvojene.htm</loc>
+	<lastmod>2014-04-05T10:33:02+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/about-us.htm</loc>
+	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/o-nama.htm</loc>
+	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/test-page.htm</loc>
+	<lastmod>2014-01-04T22:19:49+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/test-stranica.htm</loc>
+	<lastmod>2014-01-04T22:19:49+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/fullscreen.htm</loc>
+	<lastmod>2014-03-02T11:55:40+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/puni-zaslon.htm</loc>
+	<lastmod>2014-03-02T11:55:40+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/custom-search.htm</loc>
+	<lastmod>2014-02-10T10:54:19+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/prilagodeni-pretrazivac.htm</loc>
+	<lastmod>2014-02-10T10:54:19+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/rent.htm</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/najam.htm</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/sale.htm</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/prodaja.htm</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/sale-and-rent.htm</loc>
+	<lastmod>2014-02-20T16:16:30+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/prodaja-i-najam.htm</loc>
+	<lastmod>2014-02-20T16:16:30+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/146/google_link</loc>
+	<lastmod>2014-03-15T18:18:13+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/146/google_link</loc>
+	<lastmod>2014-03-15T18:18:13+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/154/test_news</loc>
+	<lastmod>2014-04-06T20:01:32+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/154/test_novost</loc>
+	<lastmod>2014-04-06T20:01:32+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/157/articles</loc>
+	<lastmod>2014-04-08T22:08:34+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/157/clanci</loc>
+	<lastmod>2014-04-08T22:08:34+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/158/test_article_2</loc>
+	<lastmod>2014-04-08T22:30:56+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/158/test_clanak_2</loc>
+	<lastmod>2014-04-08T22:30:56+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/156/article_test</loc>
+	<lastmod>2014-04-08T17:59:20+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/156/test_clanak</loc>
+	<lastmod>2014-04-08T17:59:20+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/160/showroom</loc>
+	<lastmod>2014-04-27T20:45:54+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/160/showroom</loc>
+	<lastmod>2014-04-27T20:45:54+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/161/ask_expert</loc>
+	<lastmod>2014-05-10T13:27:50+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/161/pitaj_eksperta</loc>
+	<lastmod>2014-05-10T13:27:50+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/162/hidden_page_example</loc>
+	<lastmod>2014-05-20T19:05:57+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/162/primjer_skrivene_stranice</loc>
+	<lastmod>2014-05-20T19:05:57+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/163/private_page</loc>
+	<lastmod>2014-06-30T18:24:25+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/163/privatna_stranica</loc>
+	<lastmod>2014-06-30T18:24:25+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/sitemap.htm</loc>
+	<lastmod>2015-01-20T18:56:43+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/sitemap1.htm</loc>
+	<lastmod>2015-01-20T18:56:43+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/contact.htm</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/kontakt.htm</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/14/en/black_glass_house</loc>
+	<lastmod>2014-12-28T19:01:47+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/14/hr/kuca_crno_staklo</loc>
+	<lastmod>2014-12-28T19:01:47+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/12/en/retro_house</loc>
+	<lastmod>2014-12-28T19:00:08+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/12/hr/retro_kuca</loc>
+	<lastmod>2014-12-28T19:00:08+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/8/en/ozalj_apartment</loc>
+	<lastmod>2014-12-28T19:00:56+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/8/hr/ozalj_apartman</loc>
+	<lastmod>2014-12-28T19:00:56+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/bjelovar-estate-1-en.htm</loc>
+	<lastmod>2015-02-22T15:04:06+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/bjelovar-nekretnina.htm</loc>
+	<lastmod>2015-02-22T15:04:06+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/retro-old.htm</loc>
+	<lastmod>2015-02-09T19:24:18+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/stari-retro.htm</loc>
+	<lastmod>2015-02-09T19:24:18+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/18/en/small_beauty</loc>
+	<lastmod>2014-12-28T18:59:36+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/18/hr/malena_ljepotica</loc>
+	<lastmod>2014-12-28T18:59:36+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/17/en/classic_american</loc>
+	<lastmod>2014-12-28T18:59:42+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/17/hr/americka_kuca</loc>
+	<lastmod>2014-12-28T18:59:42+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/16/en/fear_wood</loc>
+	<lastmod>2014-12-28T18:59:47+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/16/hr/drvo_straha</loc>
+	<lastmod>2014-12-28T18:59:47+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/round-towers.htm</loc>
+	<lastmod>2015-02-17T14:47:57+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/okrugle-kule.htm</loc>
+	<lastmod>2015-02-17T14:47:57+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/13/en/yellow_wood</loc>
+	<lastmod>2014-12-28T19:01:39+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/13/hr/zuto_drvo</loc>
+	<lastmod>2014-12-28T19:01:39+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/11/en/sky_apartment</loc>
+	<lastmod>2014-12-28T19:00:31+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/11/hr/sky_apartman</loc>
+	<lastmod>2014-12-28T19:00:31+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/10/en/lux_apartment</loc>
+	<lastmod>2014-12-28T19:00:41+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/10/hr/lux_apartman</loc>
+	<lastmod>2014-12-28T19:00:41+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/9/en/jezero_restourant</loc>
+	<lastmod>2014-12-28T19:00:48+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/9/hr/restoran_jezero</loc>
+	<lastmod>2014-12-28T19:00:48+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/7/en/spa_bliznec</loc>
+	<lastmod>2014-12-28T19:01:06+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/7/hr/toplice_bliznec</loc>
+	<lastmod>2014-12-28T19:01:06+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/showroom/4/en</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/showroom/4/hr</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/showroom/5/en</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/showroom/5/hr</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/showroom/6/en</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/showroom/6/hr</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/winnipeg.htm</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/winnipeg1.htm</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+</urlset>

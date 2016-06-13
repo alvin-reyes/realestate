@@ -1,0 +1,8 @@
+{
+    "require": {
+        "kriswallsmith/buzz": "*",
+        "omnipay/paypal": "~2.0",
+        "omnipay/authorizenet": "~2.0",
+        "omnipay/stripe": "~2.0"
+    }
+}

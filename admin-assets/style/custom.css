@@ -1,0 +1,471 @@
+
+p.validation
+{
+    display:block;
+    text-align: left;
+    padding: 10px 10px !important;
+    position: relative;
+}
+
+div.slide-box
+{
+    display:none;
+}
+
+.navbar-brand img
+{
+    border-right: 1px solid white;
+    padding-right:10px;
+    margin-right:10px;
+}
+
+.containerk .navbar-collapse
+{
+    padding-top:10px;
+}
+
+th.control
+{
+    width:60px;
+}
+
+input.btn
+{
+    vertical-align: top;
+    padding-top:6px;
+    padding-bottom:7px;
+}
+
+.form-horizontal .control-label.col-lg-2 {
+    width: 16.6667%;
+}
+
+.form-horizontal .control-label.col-lg-4 {
+    width: 33.3333%;
+}
+
+.form-horizontal .control-label.col-lg-3{
+    width: 25%;
+}
+
+label
+{
+    display: inline;
+}
+
+#mapsAddress
+{
+    height: 400px;
+}
+
+#mapsProperties
+{
+    height: 300px;
+}
+
+/* Sortable start */
+
+.placeholder {
+	outline: 1px dashed #4183C4;
+	/*-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin: -1px;*/
+}
+
+.mjs-nestedSortable-error {
+	background: #fbe3e4;
+	border-color: transparent;
+}
+
+ol {
+	margin: 0;
+	padding: 0;
+	padding-left: 30px;
+}
+
+ol.sortable, ol.sortable ol {
+	margin: 0 0 0 25px;
+	padding: 0;
+	list-style-type: none;
+}
+
+ol.sortable {
+	padding: 10px;
+    margin:0px;
+}
+
+.sortable li {
+	margin: 5px 0 0 0;
+	padding: 0;
+}
+
+.sortable li div  {
+	border: 1px solid #d4d4d4;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	border-color: #D4D4D4 #D4D4D4 #BCBCBC;
+	padding: 6px;
+	margin: 0;
+	cursor: move;
+	background: #f6f6f6;
+}
+
+.sortable li>div:hover
+{
+    background: white;
+}
+
+.sortable li.mjs-nestedSortable-branch div {
+	background: -moz-linear-gradient(top,  #ffffff 0%, #f6f6f6 47%, #f0ece9 100%);
+	background: -webkit-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#f0ece9 100%);
+
+}
+
+.sortable li.mjs-nestedSortable-leaf div {
+	background: -moz-linear-gradient(top,  #ffffff 0%, #f6f6f6 47%, #bcccbc 100%);
+	background: -webkit-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#bcccbc 100%);
+
+}
+
+li.mjs-nestedSortable-collapsed.mjs-nestedSortable-hovering div {
+	border-color: #999;
+	background: #fafafa;
+}
+
+.disclose {
+	cursor: pointer;
+	width: 10px;
+	display: none;
+}
+
+.sortable li.mjs-nestedSortable-collapsed > ol {
+	display: none;
+}
+
+.sortable li.mjs-nestedSortable-branch > div > .disclose {
+	display: inline-block;
+}
+
+.sortable li.mjs-nestedSortable-collapsed > div > .disclose > span:before {
+	content: '+ ';
+}
+
+.sortable li.mjs-nestedSortable-expanded > div > .disclose > span:before {
+	content: '- ';
+}
+
+.sortable .btn-group
+{
+    padding:0px; margin:0px;
+    border:0px;
+}
+
+.sortable .btn-group, .btn-group-vertical
+{
+    display: block;
+}
+
+/* Sortable end */
+
+/* Files start */
+
+.files-list 
+{ 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%; 
+}
+.files-list li 
+{
+    margin: 3px 3px 3px 0; 
+    padding: 1px; 
+    display:block;
+    float: left; 
+    width: 164px; 
+    height: 175px;
+    border:1px solid #E5E5E5;
+    cursor: move;
+    position:relative;
+}
+
+.files-list li.nobuttons
+{
+    height: 155px;
+}
+
+.files-list li .preview
+{
+    width: 160px; 
+    height: 120px;
+    text-align:center;
+    display:block;
+    overflow: hidden;
+    padding: 2px;
+}
+
+.files-list li .filename
+{
+    text-align:center;
+    max-width:160px;
+    overflow: hidden;
+    padding: 0px 0px 2px 0px;
+}
+
+.files-list li .options-container
+{
+    text-align:center;
+}
+
+.files-list li:hover{
+    background: #F5F5F5;
+}
+
+.files-list li div.progress, .files-list li div.error
+{
+    position:absolute;
+    top:60px;
+    left:2px;
+}
+
+.fileupload-buttonbar .col-md-7
+{
+    padding-left:0px;
+}
+
+/* Files End */
+
+/* Settings */
+
+.settings-tabs
+{
+    padding-left:15px;
+    padding-right:15px;
+}
+
+.matter-settings
+{
+    
+}
+
+/* Settings End */
+
+.label
+{
+    white-space: normal;
+    line-height: 1.3;
+}
+
+/* Example script */
+.bb-alert {
+    top: 10%;
+    font-size: 1.2em;
+    margin-bottom: 0;
+    padding: 1em 1.3em;
+    position: fixed;
+    right: 50%;
+}
+
+.nav.nav-tabs li.pull-right a
+{
+    line-height:1;
+    border: 1px solid #DDDDDD;
+}
+
+/* Progressbar from bootstrap 2, for upload */
+.progress {
+    background-color: #F7F7F7;
+    background-image: linear-gradient(to bottom, #F5F5F5, #F9F9F9);
+    background-repeat: repeat-x;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1) inset;
+    height: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.progress-success.progress-striped .bar, .progress-striped .bar-success {
+    background-color: #62C462;
+    background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 0) 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0));
+}
+.progress.active .bar {
+    animation: 2s linear 0s normal none infinite progress-bar-stripes;
+}
+.progress-success .bar, .progress .bar-success {
+    background-color: #5EB95E;
+    background-image: linear-gradient(to bottom, #62C462, #57A957);
+    background-repeat: repeat-x;
+}
+.progress-striped .bar {
+    background-color: #149BDF;
+    background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 0) 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0));
+    background-size: 40px 40px;
+}
+.progress .bar {
+    -moz-box-sizing: border-box;
+    background-color: #0E90D2;
+    background-image: linear-gradient(to bottom, #149BDF, #0480BE);
+    background-repeat: repeat-x;
+    box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.15) inset;
+    color: #FFFFFF;
+    float: left;
+    font-size: 12px;
+    height: 100%;
+    text-align: center;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    transition: width 0.6s ease 0s;
+    width: 0;
+}
+
+span.available-langs-sel
+{
+    cursor: pointer;
+}
+
+/* Reviews start */
+
+div.review_stars_1, div.review_stars_2, div.review_stars_3, div.review_stars_4, div.review_stars_5
+{
+    background: url(../img/stars.png) no-repeat;
+    height:22px; width:129px;
+    display:block;
+}
+
+div.review_stars_1
+{
+    background-position: 0px -88px;
+}
+
+div.review_stars_2
+{
+    background-position: 0px -66px;
+}
+
+div.review_stars_3
+{
+    background-position: 0px -44px;
+}
+
+div.review_stars_4
+{
+    background-position: 0px -22px;
+}
+
+div.review_stars_5
+{
+    background-position: 0px 0px;
+}
+
+/* Property edit start */
+
+
+h5 span.checkbox-visible
+{
+    float:right;
+    font-size: 14px;
+}
+
+/* Property edit end */
+
+/* [START] TreeField */
+
+p.help-block
+{
+    font-style: italic;    
+}
+
+.field-row
+{
+    padding: 5px 0px;
+}
+
+.ajax_loading
+{
+    display:none;
+    background: url(../img/ajax-loader.gif) right no-repeat;
+    height:16px;
+    margin:3px 0px;
+}
+
+/* [END] TreeField */
+
+/* START Search admin */
+
+.widget-content form.search-admin
+{
+    margin:0px;
+    padding:10px;
+    border-bottom: 1px solid #ddd;
+    background: #F9F9F9;
+}
+
+
+/* END Search admin */
+
+/* START Thumbnails in gallery */
+
+.files>.img-rounded>.preview>img.img-rounded
+{
+    max-width:100%;
+}
+
+/* END Thumbnails in gallery */
+
+input.ui-state-error
+{
+}
+
+/*
+@font-face {
+    font-family: 'Pagella';
+    src: url('fonts/texgyrepagella-regular.otf'), url('fonts/Calibri.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Calibri';
+    src: url('fonts/Calibri.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body, body input, body button, body select, body textarea, *, body form *, .btn{
+    font-family: Calibri,"Open Sans","Arial",sans-serif;
+}
+
+body input, body button, body select, body textarea{
+    font-family: Calibri,"Open Sans","Arial",sans-serif !important;
+}
+
+body h1, body h2, body h3, body h4, body h5, body h6
+{
+    font-family: Pagella,"Open Sans","Arial",sans-serif;
+}
+*/
+
+
+.nav.nav-tabs.language_tabs.stay_on_top
+{
+	position: fixed;
+	top: 76px;
+    right: 0px;
+    width: 100%;
+    background:black;
+    padding:10px 20px 0px 20px;
+    
+    z-index: 100;
+}
+
+.nav.nav-tabs.language_tabs.stay_on_top li a
+{
+    background: white;
+}
+
+.nav.nav-tabs.language_tabs.stay_on_top li.active a
+{
+    background: #F88529;
+    color:white;
+}
